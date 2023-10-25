@@ -3,7 +3,7 @@
   <h3>(In progress)</h3>
 </div>
 
-![YouTube Clone](src\assets\devtube-print.png)
+![YouTube Clone](https://github.com/maalcantara/YouTube-Clone/blob/main/src/assets/devtube-print.png?raw=true)
 
 ## Overview 📹
 
@@ -36,18 +36,21 @@ To run this project on your local machine, follow these steps:
    npm run dev
    ```
 3. Open your web browser and navigate to http://localhost:xxxx to see the project in action.
+<br/>
 
 ## Notes 📌
 
 - This project utilizes Vite for a fast and efficient development setup. You can learn more about Vite at https://vitejs.dev/.
 
 - Tailwind CSS is used for styling and is a highly configurable utility-first CSS framework. For more information about Tailwind CSS, visit https://tailwindcss.com/.
+<br/>
 
 ## Credits 📹
 
 - **YouTube:** [video tutorial](https://www.youtube.com/watch?v=ymGB1lqP1CM) by WebDevSimplified.
 - **React:** The JavaScript library used for building the user interface.
 - **Lucide React:** Implementation of the lucide icon library for react applications.
+<br/>
 
 ## Expanding the ESLint configuration
 
